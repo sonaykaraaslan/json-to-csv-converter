@@ -1,0 +1,31 @@
+[
+{ 
+    "Job_id":93,
+    "Name":"Sonay ",
+    "Last Name":"Karaaslan",
+    "Age":21,
+    "City": "Izmir",
+    "Hobbies":["Yuzme","Muzik dinlemek"]
+
+},
+{
+    "Job_id":94,
+    "Name":" Dilan ",
+    "Last Name":" Kaya ",
+    "Age":18,
+    "City": "Ankara ",
+    "Hobbies":["Kitap okumak","Spor yapmak"]
+
+},
+{
+    "Job_id":25,
+    "Name":" Mehmet  ",
+    "Last Name":[" Demir  "],
+    "Age":25,
+    "City": "Istanbul ",
+    "Hobbies":["Tenis oynamak","Gitar calmak"]
+
+
+}
+   
+]
